@@ -1,0 +1,6 @@
+{
+  "printWidth": 60,
+  "quoteProps": "consistent",
+  "trailingComma": "es5",
+  "plugins": []
+}
